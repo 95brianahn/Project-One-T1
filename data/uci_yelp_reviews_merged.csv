@@ -1,0 +1,62 @@
+,yelpid,name,lat,lng,distance miles,distance meters,price rating,review count,review rating,type,sub type,address1,city,state,zip,reviewid,compound,positive,negative,neutral,review text,timestamp,reviewer name,reviewer id
+0,TJljvcQrbgaHyrWRTJDSJA,Slapfish,33.64981,-117.83878,0.72,1166,$$,629,4.0,Seafood,Fish & Chips,4249 Campus Dr,Irvine,CA,92612,S4YUqarOrAgmVomHxxsaDA,0.8945,0.338,0.0,0.662,"Slapfish has really delicious food. You can't go wrong with any of their menu choices. The entrees are fresh, the sides are good, the sauces are flavorful....",2018-09-05 09:25:23,Zaina H.,JqEyA208ve_EkgDXXli6kw
+1,TJljvcQrbgaHyrWRTJDSJA,Slapfish,33.64981,-117.83878,0.72,1166,$$,629,4.0,Seafood,Fish & Chips,4249 Campus Dr,Irvine,CA,92612,x5CPgsXrIRbVXeRRku46sw,-0.2755,0.0,0.075,0.925,"This review is ONLY for their famous Lobster Breakfast Burrito.
+
+It is nothing at all like the advertised video of the burrito. Nothing.
+
+Eggs were dry and...",2018-09-06 12:48:45,Stevey R.,TO8tfo5XWZdA5QnMFhlHzw
+2,TJljvcQrbgaHyrWRTJDSJA,Slapfish,33.64981,-117.83878,0.72,1166,$$,629,4.0,Seafood,Fish & Chips,4249 Campus Dr,Irvine,CA,92612,5sLN-7RumIiKaEj-g6M3MA,0.0,0.0,0.0,1.0,"Craving lobster roll on a random week day night. Decided to be fancy and ordered to-go on Yelp. When I went to go pick up the food, the worker standing in...",2018-09-02 21:21:51,Pauline T.,tvSPQmR5bhvVKm9RJnpkag
+3,z6ZyXlSfhftN-h7FfAJo6Q,Asian Box,33.6488063941744,-117.8320658952,0.91,1461,$,285,4.0,Asian Fusion,Vegan,4503 Campus Dr,Irvine,CA,92612,UHOrEpFnxx0KahPE1_7eEg,-0.2331,0.14,0.168,0.692,"I regret taking so long, before giving this place a chance. 
+I can't find anything to complain about at all!
+
+This place is the place to go if you're a...",2018-09-04 02:32:01,Jay T.,akCFGWeFBplM1gAPn9WVuA
+4,z6ZyXlSfhftN-h7FfAJo6Q,Asian Box,33.6488063941744,-117.8320658952,0.91,1461,$,285,4.0,Asian Fusion,Vegan,4503 Campus Dr,Irvine,CA,92612,TOfx4JYJFOwR6C_GAMHIaw,0.6249,0.151,0.0,0.849,Went here today with a co-worker who has Celiac.  This is a great place for people who are on a gluten-free diet.  Everything on their menu is...,2018-08-30 17:53:35,R K.,68SZpGCrih_qGxH_VO6Afw
+5,z6ZyXlSfhftN-h7FfAJo6Q,Asian Box,33.6488063941744,-117.8320658952,0.91,1461,$,285,4.0,Asian Fusion,Vegan,4503 Campus Dr,Irvine,CA,92612,LjjJIWbfvZ_U8a5ds4Q7kQ,0.128,0.143,0.16,0.697,"This restaurant's concept is great and we need more of this ""chipotle-style"" Asian food offerings.  But this eatery unfortunately missed the mark for...",2018-08-04 13:28:30,Jamie K.,_XVYEiZ9-yTccatE5nDGCQ
+6,UyQiOlHYL6AjMrr_Q8ty1Q,The Stand,33.6375457,-117.8601113,0.92,1477,$$,185,4.5,American (New),Burgers,1332 Bison Ave,Newport Beach,CA,92660,Mebo05nblZ5314uLsDhXaA,0.0,0.0,0.0,1.0,"If you read nothing else. Read this! I will work overtime at my work if I can spend that extra cash on this burger and hot dog!!!
+
+Oh em gee! Just so dang...",2018-08-20 16:22:45,Khashayer M.,9DbqFyZVprElAhDZf4HI5A
+7,UyQiOlHYL6AjMrr_Q8ty1Q,The Stand,33.6375457,-117.8601113,0.92,1477,$$,185,4.5,American (New),Burgers,1332 Bison Ave,Newport Beach,CA,92660,Z78vucUptlcJbvrwViy2PA,0.0,0.0,0.0,1.0,Two stars for the guacamole in my salad. Literally nothing else was tasty in my Southwest Chicken Salad. Came here after a hike for a filling meal but I'm...,2018-09-08 16:47:24,Tejal K.,1G0EvYpydNI6PbzEMCsSXQ
+8,UyQiOlHYL6AjMrr_Q8ty1Q,The Stand,33.6375457,-117.8601113,0.92,1477,$$,185,4.5,American (New),Burgers,1332 Bison Ave,Newport Beach,CA,92660,1OlxRwj7JHPBRXiRhFnXjA,0.0,0.131,0.131,0.737,"The food was great as usual however the restaurant was a disaster. Literally every table open was covered in crumbs and/or liquid residue from drinks, and...",2018-08-11 20:27:12,Jaypatrick M.,JRCNRYkJDHU9vAkHyathNw
+9,QzJxZ67PVrqy6Z_5gKfxyw,Le Diplomate Cafe,33.6491405,-117.8392785,0.75,1210,$,1712,4.5,Bakeries,Sandwiches,4237 Campus Dr,Irvine,CA,92612,kvzw_gmI46tTIVMgR0jVPA,0.8122,0.221,0.0,0.779,"One of the best sandwich places when I went to UC Irvine. Located in the UTC across from campus, it makes a very good lunch for affordable price. They have...",2018-08-20 19:51:03,Cathy L.,QbMlALsQpgvOpzBB2DieOQ
+10,QzJxZ67PVrqy6Z_5gKfxyw,Le Diplomate Cafe,33.6491405,-117.8392785,0.75,1210,$,1712,4.5,Bakeries,Sandwiches,4237 Campus Dr,Irvine,CA,92612,CEVFhf2fqRamU_5BkM3zCQ,0.6369,0.178,0.0,0.822,"This place has been around forever and it's still just as good as I remember. It's fresh, tasty, and very reasonably priced. My go-to sandwich is the...",2018-09-16 16:45:25,Alice L.,hGFGvI-jVxNB2xwZY6KrjQ
+11,QzJxZ67PVrqy6Z_5gKfxyw,Le Diplomate Cafe,33.6491405,-117.8392785,0.75,1210,$,1712,4.5,Bakeries,Sandwiches,4237 Campus Dr,Irvine,CA,92612,bybOwkX6NWNNqvLrO_-O2A,0.7269,0.21,0.0,0.79,"Food: 4/5
+Service: 4/5
+Cleanliness: 4/5
+Decor & Style: 3/5
+
+Pretty good sandwich overall. The sauce is a little different than what i'm used to (a little...",2018-08-21 15:53:29,Nick N.,-gN7r8iOBKGeh4LJkn2QeQ
+12,lzx8_1F8TqC9y8L3ElRifg,Hen House Grill,33.6493026913943,-117.832296946294,0.92,1480,$$,746,4.0,Persian/Iranian,Mediterranean,4515 Campus Dr,Irvine,CA,92612,l494ULP1iVNdHqfmybB1qQ,0.0,0.0,0.0,1.0,"I have been a customer at Hen House Grill since 2014, back in the day when they were located on Culver. The management has not changed, and they still...",2018-07-26 20:38:13,Henry L.,YoDrEM2wQmsALuc2IovqXQ
+13,lzx8_1F8TqC9y8L3ElRifg,Hen House Grill,33.6493026913943,-117.832296946294,0.92,1480,$$,746,4.0,Persian/Iranian,Mediterranean,4515 Campus Dr,Irvine,CA,92612,2M_Bd_nxOJ1J0vFsjW9FEw,0.5719,0.134,0.0,0.866,"First time here
+
+After watching Shahs of Sunset, when they were celebrating Persian New Year, I was so hungry for Mediterranean food.  
+
+Hen House has been...",2018-09-14 12:40:13,Mira Y.,Hl0GFs8WRy7dFx89s_hi3g
+14,lzx8_1F8TqC9y8L3ElRifg,Hen House Grill,33.6493026913943,-117.832296946294,0.92,1480,$$,746,4.0,Persian/Iranian,Mediterranean,4515 Campus Dr,Irvine,CA,92612,Fxsp-mcnFhPZN4oXoAFGbg,0.6534,0.283,0.134,0.583,"WORST HUMMUS I'VE EVER HAD!!!
+
+With that said, everything else was pretty good. Service was quick and friendly. The food was a really large portion. Cant...",2018-09-08 14:15:58,Trish P.,6eaY6cXabv63JSY52bq5Qg
+15,jTyfj3e8PIkc4KTVh3sAqw,Mendocino Farms,33.650802,-117.839104,0.77,1242,$$,479,4.0,Sandwiches,Salad,4187 Campus Dr,Irvine,CA,92612,LHMQUm2uHJPaByk7JzzLdw,0.0,0.111,0.141,0.749,"Picked this up for lunch today and got way too much food for one person... *shrug* no regrets 
+
+- Tofu Banh Mi: delicious spicy red creamy sauce with crispy...",2018-08-23 17:35:42,Kj J.,KQZLmfG9vueQ-wVRB9sR_Q
+16,jTyfj3e8PIkc4KTVh3sAqw,Mendocino Farms,33.650802,-117.839104,0.77,1242,$$,479,4.0,Sandwiches,Salad,4187 Campus Dr,Irvine,CA,92612,Rfo1mJEiWo42ZNP8ga2rRg,0.8604,0.357,0.0,0.643,Went to Mendocino Farms for the first time yesterday.  Was pleasantly surprised with the food.  Menu has quite a few healthy but delicious sounding...,2018-09-10 12:21:07,Phil L.,I-Cl6qHc6O6v-cohHKPdkg
+17,jTyfj3e8PIkc4KTVh3sAqw,Mendocino Farms,33.650802,-117.839104,0.77,1242,$$,479,4.0,Sandwiches,Salad,4187 Campus Dr,Irvine,CA,92612,NUw9gIFUI1M4Kv3CITJzSQ,0.7345,0.187,0.0,0.813,"I wish I could give this place 6 stars!
+
+We went to UTC for lunch and couldn't decide where to eat. My friend decided to go here. I never been here so I...",2018-08-09 22:12:31,Julie V.,S0sLuv9nad0w2_HZc5EOYA
+18,Ut9709JWjLlx9CYyTjYYKg,Thai Style,33.6409916584226,-117.855753420789,0.66,1062,$$,4,4.5,Thai,Food Stands,5171 California Ave,Irvine,CA,92617,iP-ARrjqnobZSf34oQFJpg,0.7506,0.268,0.064,0.669,"Good weekly Thai food @our Farmer's Market on Thursday's.
+
+Ingredients are fresh and the staff is friendly. The only downside is the wait time...
+
+I...",2017-07-27 12:21:45,Randy W.,-2CainXEr63oltxnExHGgg
+19,Ut9709JWjLlx9CYyTjYYKg,Thai Style,33.6409916584226,-117.855753420789,0.66,1062,$$,4,4.5,Thai,Food Stands,5171 California Ave,Irvine,CA,92617,_odtz8ELynWfQXTdT1oc3Q,0.6542,0.16,0.0,0.84,"I agree with other yelpers saying the wait can be long. We came to order around 11:35, and didn't get our food till 12ish. It's not bad really, it's just if...",2018-03-01 15:43:14,An L.,Nl7_kl_3QbEexPFud0xobg
+20,Ut9709JWjLlx9CYyTjYYKg,Thai Style,33.6409916584226,-117.855753420789,0.66,1062,$$,4,4.5,Thai,Food Stands,5171 California Ave,Irvine,CA,92617,l1zsiDmhiz45pqsouMDTkg,0.7712,0.233,0.0,0.767,Legit ! I wish they had a restaurant because I would be a regular.  The food is delicious.  It's a very small mom and pop operation which sets up a small...,2018-03-20 16:15:59,Michael D.,7ymjgHryA31FIrKsm9KyXA
+21,ObCj8Y3KAdk4bgc8oSxNcA,Bosscat Kitchen and Libations,33.66985,-117.86526,2.38,3823,$$,2493,4.5,American (New),Lounges,4647 MacArthur Blvd,Newport Beach,CA,92660,29utJ4OrFP4jPSTaTAK8Ww,0.3612,0.077,0.0,0.923,"Don't take your date to this place on NFL's opening week. It can get very loud and feel like you are at a sport bar while it's far from it. 
+Appetizers are...",2018-09-11 17:45:23,Arezou G.,OkHJnN23aVqFIoP27mB9hg
+22,ObCj8Y3KAdk4bgc8oSxNcA,Bosscat Kitchen and Libations,33.66985,-117.86526,2.38,3823,$$,2493,4.5,American (New),Lounges,4647 MacArthur Blvd,Newport Beach,CA,92660,5renwEnWTJsumt4rrzVWTg,0.6876,0.159,0.042,0.8,"Wow! What an experience!!!!! The service here is unmatched!!! I've only been to Bosscats twice, prior to last night, only for drinks. So, this was my first...",2018-09-09 17:05:36,Beth M.,97a2A4gZgJpEAxfJxmiz4Q
+23,ObCj8Y3KAdk4bgc8oSxNcA,Bosscat Kitchen and Libations,33.66985,-117.86526,2.38,3823,$$,2493,4.5,American (New),Lounges,4647 MacArthur Blvd,Newport Beach,CA,92660,pNyhRYgYxMI_G3kYrxvX-g,0.7351,0.212,0.0,0.788,My group of friends and I (10-15 ppl) made a reservation at 11am for Saturday Brunch. We were seated promptly. My friends got the Bottomless mimosas. The...,2018-09-09 13:44:20,Lisa B.,iG8qypkkvTHvQnVFrZkaRQ
+24,NVB2X8t5Rie8S5AnzOnWJg,North Italia,33.67179,-117.84507,2.16,3477,$$,2208,4.5,Pizza,Italian,2957 Michelson Dr,Irvine,CA,92612,QLpop9_8J1_SahYyz25F5w,0.8074,0.249,0.0,0.751,"Not only the amazing food, but after asking if there is a military discount, the manager, Jerry, apologizes there is none, but offers his own as well as a...",2018-09-09 19:10:19,Jason P.,S9_npMJoctCGmg61ZBuYjA
+25,NVB2X8t5Rie8S5AnzOnWJg,North Italia,33.67179,-117.84507,2.16,3477,$$,2208,4.5,Pizza,Italian,2957 Michelson Dr,Irvine,CA,92612,bc-20X2-fnbly5UBqJvG3A,0.0,0.0,0.0,1.0,"We were staying across the way at the AC Hotel and in doing my check of restaturants in the area, North Italia came up. Looked at the many Yelp reviews and...",2018-09-12 12:10:43,Chuck D.,5XAXkk6WENi0OW_HSSXRWA
+26,NVB2X8t5Rie8S5AnzOnWJg,North Italia,33.67179,-117.84507,2.16,3477,$$,2208,4.5,Pizza,Italian,2957 Michelson Dr,Irvine,CA,92612,or8zUCgQhvqGa3g0433dmQ,0.3446,0.169,0.125,0.706,"I honestly like this place a lot, so I'm upset to leave this review. I've been here several times. Once, for my mom's birthday and a few other times with...",2018-09-12 00:23:53,Rulla A.,QYVPF8N9lpTPQcBKsZ8Hpw
+27,RcWSCtCaDcn9FPZwM0AQrg,Spoleto,33.651059,-117.839014,0.79,1272,$$,280,4.0,Italian,Salad,4175 Campus Dr,Irvine,CA,92612,T93nBUGu3To8Jf4kQq_FhQ,0.8271,0.216,0.0,0.784,"I would give this one star, but the second star is for the hope that this place could be better.
+
+I've eaten here four or five times before and have tried...",2018-09-11 10:58:00,Nathan G.,d2F_jrGXFOtWL8cjthNS7A
+28,RcWSCtCaDcn9FPZwM0AQrg,Spoleto,33.651059,-117.839014,0.79,1272,$$,280,4.0,Italian,Salad,4175 Campus Dr,Irvine,CA,92612,-TlPjlQkCfCzYftUPnqqsQ,0.9311,0.422,0.0,0.578,Came here yesterday and loved it! Great first impression because the interior of the restaurant & menu are both aesthetically pleasing! Counters were clean...,2018-09-08 14:23:42,Trish P.,6eaY6cXabv63JSY52bq5Qg
+29,RcWSCtCaDcn9FPZwM0AQrg,Spoleto,33.651059,-117.839014,0.79,1272,$$,280,4.0,Italian,Salad,4175 Campus Dr,Irvine,CA,92612,v4L5cY7jvxewT-ARjlNcJQ,0.3818,0.137,0.066,0.797,"The food is good and well presented, which is why I choose to come here as many times as I have. But what pisses me off the most is that they don't give the...",2018-08-18 20:19:14,Genji M.,Qxdq404QOjFXI-hb0Rqj3Q
