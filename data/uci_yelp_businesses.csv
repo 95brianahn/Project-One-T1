@@ -1,0 +1,48 @@
+,index,yelpid,name,lat,lng,distance miles,distance meters,price rating,price value,review count,review rating,type,sub type,address1,city,state,zip
+0,0,Ut9709JWjLlx9CYyTjYYKg,Thai Style,33.6409916584226,-117.855753420789,0.66,1062,$$,2,4,4.5,Thai,Food Stands,5171 California Ave,Irvine,CA,92617
+1,1,TJljvcQrbgaHyrWRTJDSJA,Slapfish,33.64981,-117.83878,0.72,1166,$$,2,631,4.0,Seafood,Fish & Chips,4249 Campus Dr,Irvine,CA,92612
+2,2,z6ZyXlSfhftN-h7FfAJo6Q,Asian Box,33.6488063941744,-117.8320658952,0.91,1461,$,1,286,4.0,Asian Fusion,Vegan,4503 Campus Dr,Irvine,CA,92612
+3,3,lzx8_1F8TqC9y8L3ElRifg,Hen House Grill,33.6493026913943,-117.832296946294,0.92,1480,$$,2,747,4.0,Persian/Iranian,Mediterranean,4515 Campus Dr,Irvine,CA,92612
+4,4,RcWSCtCaDcn9FPZwM0AQrg,Spoleto,33.651059,-117.839014,0.79,1272,$$,2,280,4.0,Italian,Salad,4175 Campus Dr,Irvine,CA,92612
+5,5,pm1SGfjnSDIDw-1W1XbCSQ,Eureka!,33.6505630345333,-117.839237451553,0.75,1213,$$,2,800,3.5,American (New),Bars,4143 Campus Dr,Irvine,CA,92612
+6,6,jTyfj3e8PIkc4KTVh3sAqw,Mendocino Farms,33.650802,-117.839104,0.77,1242,$$,2,479,4.0,Sandwiches,Salad,4187 Campus Dr,Irvine,CA,92612
+7,7,QzJxZ67PVrqy6Z_5gKfxyw,Le Diplomate Cafe,33.6491405,-117.8392785,0.75,1210,$,1,1713,4.5,Bakeries,Sandwiches,4237 Campus Dr,Irvine,CA,92612
+8,8,tKKPXIpijBNRqHz90UX5JA,Temakira,33.650505784803,-117.83821663542,0.78,1247,$,1,94,3.5,Sushi Bars,Japanese,4237 Campus Dr,Irvine,CA,92612
+9,9,I5hqwi5SRlFmdam78sa2HA,Taco Rosa,33.6270307089144,-117.84911439682,0.97,1562,$$,2,439,3.5,Mexican,Beer Bar,2632 San Miguel Dr,Newport Beach,CA,92660
+10,10,-GPER_vHaN2DV2qyr9gF5w,Yushoken Izakaya & Ramen,33.6508376,-117.838792,0.78,1257,$,1,269,3.0,Ramen,Soup,4187 Campus Dr,Irvine,CA,92612
+11,11,qRkAHPVSKEYykpNjb-URAw,DelSushi,33.649876,-117.838854,0.72,1158,$$,2,319,4.0,Japanese,Sushi Bars,4249 Campus Dr,Irvine,CA,92612
+12,12,_T9fl1NkIDGcbJbag9w2Gg,Tender Greens,33.6503121997947,-117.838142904177,0.77,1231,$$,2,406,3.5,American (New),Salad,4237 Campus Dr,Irvine,CA,92612
+13,13,jhA6AtQuXJT_dJPb7QGGxQ,Anthill Pub & Grille,33.648875001478,-117.842283696117,0.59,950,$,1,380,4.0,Bars,American (Traditional),4200 Campus Dr,Irvine,CA,92697
+14,14,8bYPc0rN7XEJtyGoN-I6Lg,Chick-fil-A,33.649645,-117.839674,0.69,1103,$,1,145,3.5,Fast Food,n/a,4127 Campus Dr,Irvine,CA,92612
+15,15,rvQ1dbL0UOKmcQyMEgvO0g,California Gogi Grill,33.6504850618367,-117.838828038363,0.76,1220,$,1,473,3.0,Korean,n/a,4237 Campus Dr,Irvine,CA,92612
+16,16,saKl29canx_KLrDf1YmBTA,Blaze Fast-Fire'd Pizza,33.649757115819,-117.839082472835,0.71,1137,$,1,923,4.0,Pizza,Salad,4255 Campus Dr,Irvine,CA,92612
+17,17,esUqa0VrYZoKlAr0RpFtYQ,In-N-Out Burger,33.650154,-117.84063,0.7,1126,$,1,641,4.5,Burgers,Fast Food,4115 Campus Dr,Irvine,CA,92612
+18,18,5rrh1NndJ8u9VjiL0V6Qew,Global Cafe,33.63124,-117.832907,0.92,1473,$,1,24,4.0,American (New),Cafes,5001 Newport Coast Dr,Irvine,CA,92603
+19,19,FxXL4MXQoS8gKf3sy9J8Tg,Luna Grill - University Center,33.651032,-117.838494,0.75,1201,$$,2,86,3.5,Mediterranean,Greek,4143 Campus Dr,Irvine,CA,92612
+20,20,S445_-W9AwZO52M28Y78tA,Cha For Tea,33.6506645616254,-117.838942874257,0.77,1234,$,1,1595,3.5,Bubble Tea,Cafes,4187 Campus Dr,Irvine,CA,92612
+21,21,aKnJouAzGuC27p1evweuHw,The Habit Burger Grill,33.6487929973514,-117.832127250731,0.9,1456,$,1,92,4.0,Burgers,Sandwiches,4501 Campus Dr,Irvine,CA,92612
+22,22,3xTbXKlqf3luiSHdwr4qBw,Crystal Cove Cafe,33.6396122,-117.8524788,0.57,919,$,1,20,4.0,American (Traditional),Sandwiches,5221 California Ave,Irvine,CA,92617
+23,23,Q30Zh4ivr1b4mXrLTyLvDA,ADYA,33.6505451832087,-117.837922341357,0.79,1263,$$,2,112,3.0,Indian,Cooking Classes,4213 Campus Dr,Irvine,CA,92612
+24,24,bhNBmYIZppxfIw0pUnEtTw,Chipotle Mexican Grill,33.649593,-117.839315,0.69,1111,$,1,161,2.5,Mexican,Fast Food,4255 Campus Dr,Irvine,CA,92612
+25,25,95EO0b9QN_fxElBIR1lUUw,Ding's Garden,33.6487679,-117.8315947,0.96,1541,$,1,48,2.5,Taiwanese,Cafes,4535 Campus Dr,Irvine,CA,92612
+26,26,uhOztX8_pe52lQlYKTaFjw,Ray's Pizza,33.65076,-117.83831,0.8,1282,$,1,240,4.0,Pizza,Italian,4199 Campus Dr,Irvine,CA,92612
+27,27,6EsUSHmcRJDrK_qGUir2sg,Nekter Juice Bar,33.650237,-117.838652,0.75,1202,$,1,212,4.0,Juice Bars & Smoothies,Gluten-Free,4237 Campus Dr,Irvine,CA,92612
+28,28,hpAfAAkdyOHEp4sSwjhrjw,Elements Cafe,33.6383616,-117.8507178,0.36,579,$,1,12,4.0,American (New),American (Traditional),5300 California Ave,Irvine,CA,92614
+29,29,vNGn5nU9tCteCIt67pu2kg,Gina's Pizza & Pastaria,33.649820768447,-117.83204748763,0.95,1536,$$,2,522,3.5,Pizza,Salad,4533 Campus Dr,Irvine,CA,92612
+30,31,ILs5B_wcYtYQeQP76-H3pQ,Which Wich,33.649927204458,-117.83190690116,0.97,1554,$,1,174,4.0,Sandwiches,n/a,4537 Campus Dr,Irvine,CA,92612
+31,32,P3Wy96hNx32P22vYE1J0Iw,Gen Grill,33.6497103,-117.8401766,0.75,1210,$,1,232,3.0,Japanese,Sushi Bars,4143 Campus Dr,Irvine,CA,92612
+32,34,0M9mHQ9ZDR50nPJEckAelQ,The Anteatery,33.6487251520157,-117.845872566104,0.74,1184,$$,2,19,3.0,Cafeteria,n/a,4001 Mesa Rd,Irvine,CA,92617
+33,35,qxI7VvvxTFuBGmPlv0C6DQ,Café Med,33.64648,-117.8489,0.49,791,$,1,4,4.5,Restaurants,n/a,Bldg 800 Academy Way,Irvine,CA,92697
+34,36,lGN37GyLvbt5SJnZGU0pQA,BC's Cavern on the Green,33.6603660583496,-117.826133728027,0.0,0,$,1,31,3.0,Food Stands,n/a,University Of California Irvine,Irvine,CA,92612
+35,37,2klb5ttoSEb2wNDT92dx9g,Specialty's Café & Bakery,33.6468788,-117.8546541,0.74,1192,$,1,120,4.0,Bakeries,Cafes,100 Innovation Dr,Irvine,CA,92617
+36,38,PcInY-8UB4h2rirbx2azvg,Jack In The Box,33.6486587524414,-117.838020324707,0.67,1080,$,1,118,3.5,Fast Food,Burgers,4289 Campus Dr,Irvine,CA,92612
+37,39,z-La7mVgc7Y0iGXPs-uUWg,Wahoo's Fish Tacos,33.6493818973953,-117.842740416527,0.62,998,$,1,26,3.5,Mexican,n/a,437 Campus Dr,Irvine,CA,92612
+38,40,sTSi1EgTj8WFBz0Bv66Zbw,Taco Bell,33.6509483524066,-117.840873556031,0.75,1204,$,1,108,2.5,Mexican,Fast Food,4101 Campus Drive,Irvine,CA,92612
+39,41,61nCoxInTSrC8XGN_XWKXA,Bridge Cafe,33.6449078306951,-117.834882885218,0.62,1000,$,1,2,4.5,Cafes,Coffee & Tea,510 East Peltason Dr,Irvine,CA,92617
+40,42,orp5iNOVFWBmG-dHyvvK3A,Wendy's,33.649545,-117.842714,0.63,1016,$,1,14,3.0,Burgers,Fast Food,113 Pereira Dr,Irvine,CA,92617
+41,43,UiFrBo6P7ZNtQiccUMsFRQ,Med Ed Cafe,33.6420777588606,-117.851237057957,0.54,869,$,1,3,4.5,Cafes,n/a,836 Health Sciences Rd,Irvine,CA,92697
+42,44,hiczRBTNxzPitF1Hzn1-mQ,Panda Express,33.6491988085241,-117.842563390732,0.61,980,$,1,39,2.5,Fast Food,Chinese,A232 Student Ctr,Irvine,CA,92697
+43,45,cJ3Ql5pI7cqRkKFHUggVOw,Pippin Commons,33.64476848477,-117.836899908994,0.52,833,$,1,46,3.0,Cafeteria,n/a,100 E Peltason Dr,Irvine,CA,92612
+44,47,PZ5DdMliakXdyMHbo17SVg,Bene's Pizza & Pasta,33.6487611798883,-117.842048406601,0.59,942,$,1,23,3.5,Italian,n/a,University Of California Irvine,Irvine,CA,92604
+45,48,CbuSnXTGkNvjvF0bD__pBA,Subway,33.645939,-117.844418,0.38,605,$,1,31,3.5,Sandwiches,Fast Food,BC's Cavern Food Ct,Irvine,CA,92697
+46,49,UmF_y5uzuO0e9r080kRNvQ,Café Espresso,33.6438578008159,-117.843491435051,0.24,381,$,1,35,3.0,Coffee & Tea,Sandwiches,University Of California Irvine,Irvine,CA,92697
